@@ -1,0 +1,6 @@
+We will include a full dual pol simulation for a single channel. Includes:
+1. Fiber chromatic dispersion
+2. Polarization multiplexing
+3. Laser frequency offset
+4. Laser phase noise
+5. IQ imbalances
